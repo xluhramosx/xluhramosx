@@ -28,7 +28,7 @@ Studying to become a FullStack Developer
  
 <br>
  
-### If you want to know more abou me, follow or contact me!
+### If you want to know more about me, follow or contact me!
  
 <div> 
   <a href="https://instagram.com/xluh.ramosx" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
