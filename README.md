@@ -5,9 +5,8 @@
 
 ## About me
 
-Studying to become a FullStack Developer
+28 yo, studying to become a FullStack Developer!!
 
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=LINK_GIT)](LINK_GIT)
 
 
  <div>
